@@ -182,3 +182,9 @@ The project highlights skills in data querying, aggregation, trend analysis, dat
 - DAX
 - Data Analysis
 - Data Visualization
+
+  ## 📸 Dashboard Preview
+
+### Power BI Dashboard
+
+![Pizza Sales Power BI Dashboard](Powerbi%2BSQL%20Dashboard.png)
